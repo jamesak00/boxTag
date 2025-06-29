@@ -1,0 +1,21 @@
+# PyCharm project files
+.idea/
+*.iml
+*.iws
+*.ipr
+misc.xml
+modules.xml
+vcs.xml
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+*/venv/
+*/env/
